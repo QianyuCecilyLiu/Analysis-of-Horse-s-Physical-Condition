@@ -1,5 +1,4 @@
 # Analysis-of-Horses-Physical-Condition
-# STAT-456-Final-Project
 
 This is the final project of my course STAT456. This course is about multivatiate analysis. I use R to load the data and python to proprecessing it (just for fun), then I use R to continue my whole analysis stuff.
 
